@@ -1,6 +1,14 @@
-### Hello world! The Name's Bishal!👋
+
+
+<h1 align="center"> Hello world! The Name's Bishal!👋</h1>
+<h3 align="center">A passionate developer from Nepal</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bishalthapa3&label=Profile%20views&color=0e75b6&style=flat" alt="bishalthapa3" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishalthapa3" alt="bishalthapa3" /></a> </p>
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>  
+
 - 👋 Hi, I’m @bishalthapa
 
 - 👀 I’m interested in Designing.
@@ -25,8 +33,14 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"     width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
+<br>
 
-### 📊 My Github Stats
+<br>
+
+<br>
+
+
+<h2 align="center" >📊 My Github Stats :</h2> 
 
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="bishal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bishalthapa3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
