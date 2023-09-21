@@ -3,9 +3,8 @@
 <h1 align="center"> Hello world! The Name's Bishal!👋</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bishalthapa3&label=Profile%20views&color=0e75b6&style=flat" alt="bishalthapa3" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishalthapa3" alt="bishalthapa3" /></a> </p>
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/TopCodeBeast"><img src="https://github-profile-trophy.vercel.app/?username=bishalthapa&margin-w=5&theme=radical" alt="bishalthapa" /></a> </p>
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>  
 
@@ -46,6 +45,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="bishal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bishalthapa3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="bishal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalthapa3&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+  <p><p align="left"><img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=bishalthapa3&theme=github-dark-blue&hide_border=true"/></p></p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
@@ -65,6 +65,13 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
+
+<h4 align="left">Support:</h4>
+<p><a href="https://www.buymeacoffee.com/bishalthapa3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="bishalthapa3" /></a></p><br><br>
+
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/TopCodeBeast"><img src="https://github-profile-trophy.vercel.app/?username=bishalthapa&margin-w=5&theme=radical" alt="bishalthapa" /></a> </p>
+
 <!---
 bishalthapa3/bishalthapa3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
