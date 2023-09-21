@@ -1,5 +1,6 @@
-<img  align="right" height="500px" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" >
+### Hello world! The Name's Bishal!👋
 
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>  
 - 👋 Hi, I’m @bishalthapa
 
 - 👀 I’m interested in Designing.
@@ -9,6 +10,10 @@
 - 💞️ I’m looking to collaborate on projects.
 
 - 📫 How to reach me bishalt353@gmail.com
+
+<br>
+
+### 🚀 Languages and Tools:
 
 <p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"    height="40"/> </a>
@@ -20,20 +25,19 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"     width="40" height="40"/> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishalthapa3&show_icons=true&locale=en&layout=compact" alt="bishalthapa3" /></p>
+
+### 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="bishal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bishalthapa3&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="bishal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalthapa3&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
+<br/>
 
-<p>&nbsp;<img align="r" src="https://github-readme-stats.vercel.app/api?username=bishalthapa3&show_icons=true&locale=en" alt="bishalthapa3" /></p>
-<div align="center">
-
-<br>
-
-<br>
-
-<br> 
-
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">🚀 Languages and Tools:</h2>
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
