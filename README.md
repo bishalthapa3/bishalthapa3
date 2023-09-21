@@ -69,8 +69,7 @@
 <h4 align="left">Support:</h4>
 <p><a href="https://www.buymeacoffee.com/bishalthapa3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="bishalthapa3" /></a></p><br><br>
 
- <summary><b>🏆 Github Achievements</b></summary>
-<p align="center"> <a href="https://github.com/TopCodeBeast"><img src="https://github-profile-trophy.vercel.app/?username=bishalthapa&margin-w=5&theme=radical" alt="bishalthapa" /></a> </p>
+ 
 
 <!---
 bishalthapa3/bishalthapa3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
