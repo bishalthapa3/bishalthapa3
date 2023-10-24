@@ -3,7 +3,7 @@
 <h1 align="center"> Hello world! The Name's Bishal!👋</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
- <summary><b>🏆 Github Achievements</b></summary>
+ <summary><b>🎖️🏆 Github Achievements🏆🎖️</b></summary>
 <p align="center"> <a href="https://github.com/TopCodeBeast"><img src="https://github-profile-trophy.vercel.app/?username=bishalthapa&margin-w=5&theme=radical" alt="bishalthapa" /></a> </p>
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"/>  
